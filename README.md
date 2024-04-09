@@ -1,1 +1,1 @@
-# basics-of-html
+# plant disease prediction 
